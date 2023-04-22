@@ -10,8 +10,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![image](https://img.shields.io/pypi/v/geeml.svg)](https://pypi.python.org/pypi/geeml)
-[![image](https://img.shields.io/conda/vn/conda-forge/geeml.svg)](https://anaconda.org/conda-forge/geeml)
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -24,25 +23,15 @@
 <br />
 <div align="center">
   <a href="https://github.com/Geethen/geeml">
-    <img src="./images/logo2_GEEML.png" alt="Logo" width="400" height="400">
+    <img src="./images/GEEDEVSNairobi.png" alt="Logo" width="400" height="400">
   </a>
 
-<h3 align="center">GEEML: Google Earth Engine Machine learning</h3>
+<h3 align="center">GEE Developers-Nairobi</h3>
 
   <p align="center">
     A python package to extract gee data for machine learning.
-    <br />
-    <a href="https://Geethen.github.io/geeml"><strong>Explore the documentation »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Geethen/geeml">View Demo</a>
-    ·
-    <a href="https://github.com/Geethen/geeml/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Geethen/geeml/issues">Request Feature</a>
   </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -55,7 +44,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#installation">Loading Image</a></li>
       </ul>
     </li>
     <li><a href="#usage">Basic Usage</a></li>
