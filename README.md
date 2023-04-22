@@ -76,57 +76,7 @@ The Machine learning capabilities in the GEE JS code editor remain limited. For 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Installation
-To install this package:
-
-1. pip 
-   ```sh
-   pip install geeml
-   ```
-2. Build from source (latest version)
-   ```sh
-   pip install git+https://github.com/Geethen/geeml.git
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- USAGE EXAMPLES -->
-## Basic usage
-Download the NASADEM elevation data for Kenya.
-
-   ```python
-  #import packages
-  import ee
-  from geeml.utils import getCountry
-  from geeml.extract import extractor
-
-  # Authenticate GEE
-  ee.Authenticate()
-  # Initialize GEE with high-volume end-point
-  ee.Initialize(opt_url='https://earthengine-highvolume.googleapis.com')
-   
-  # Import datasets from GEE
-  nasadem = ee.Image("NASA/NASADEM_HGT/001")
-  # A point in Kenya
-  poi = ee.Geometry.Point([37.857884,-0.002197])
-  kenya = getCountry(poi)
-
-  # Download directory
-  dd = '/content/drive/MyDrive/geeml_example'
-
-  # Prepare for data extraction
-  trialExtractor = extractor(covariates=nasadem, aoi = kenya, scale= 5000, dd= dd)
-
-  # Extract data
-  trialExtractor.extractAoi()
-   ```
-
-_For more examples, please refer to the [Documentation](https://geethen.github.io/geeml/notebooks/example/)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+## Insta
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -177,6 +127,11 @@ Facilitator: Wafula Michael - https://www.linkedin.com/in/wafula-michael-wekesa-
 Project Link: https://github.com/geedevsnairobi/ML-and-Land-Use-Land-Cover-Change-Detection-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [GDG Nairobi](https://gdg.community.dev/gdg-nairobi/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
