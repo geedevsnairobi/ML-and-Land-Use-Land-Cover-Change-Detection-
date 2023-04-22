@@ -170,28 +170,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
+Hosts GEE Developers-Nairobi geedevsnairobi@gmail.com
+Facilitator: Wafula Michael - (https://www.linkedin.com/in/wafula-michael-wekesa-013834221/)
 
-Geethen Singh - [@Geethen](https://twitter.com/Geethen) - geethen.singh@gmail.com
-
-Project Link: [https://github.com/Geethen/geeml](https://github.com/Geethen/geeml)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Natural State](https://www.naturalstate.org/)
-* [University of the Witwatersrand](https://www.wits.ac.za/)
-* [Fitz patrick centre for african ornithology](http://www.fitzpatrick.uct.ac.za/)
-
-This package was created with [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and the [giswqs/pypackage](https://github.com/giswqs/pypackage) project template.
-
-This package uses the [geedim](https://pypi.org/project/geedim/) package for extracting image data at an AOI
+Project Link: (https://github.com/geedevsnairobi/ML-and-Land-Use-Land-Cover-Change-Detection-)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
