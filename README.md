@@ -171,9 +171,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 Hosts GEE Developers-Nairobi geedevsnairobi@gmail.com
-Facilitator: Wafula Michael - (https://www.linkedin.com/in/wafula-michael-wekesa-013834221/)
 
-Project Link: (https://github.com/geedevsnairobi/ML-and-Land-Use-Land-Cover-Change-Detection-)
+Facilitator: Wafula Michael - https://www.linkedin.com/in/wafula-michael-wekesa-013834221/
+
+Project Link: https://github.com/geedevsnairobi/ML-and-Land-Use-Land-Cover-Change-Detection-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
