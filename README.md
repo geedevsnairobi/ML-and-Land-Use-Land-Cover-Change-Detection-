@@ -55,8 +55,16 @@
       <ul>
         <li><a href="#Step 3.">Step 3: Training the ML Model for Classification</a></li>
       </ul>
+      <ul>
+        <li><a href="#Step 4.">Step 4: Visualization of the classified image</a></li>
+      </ul>
+      <ul>
+        <li><a href="#Step 5.">Step 5: Change Detection</a></li>
+      </ul>
+      <ul>
+        <li><a href="#Step 6.">Step 6: Area computation for each LULC Classes</a></li>
+      </ul>      
     </li>
-    <li><a href="#usage">Basic Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -69,12 +77,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This python package makes it easier to extract satellite data from Google Earth Engine using parallel processing and the Google Earth Engine high volume end point.
-
-In its current state it supports the extraction of data for traditional machine learning (tabular data) in the form of csv's and the extraction of GeoTiff image patches for Deep Neural Networks.
+About this project we use LULC (Land Use Land Cover) Project description
+The amount of a region that is covered by forests, wetlands, impermeable surfaces, farmland, and other land and water types is shown by land cover data.
+Land use demonstrates how humans utilize the landscape, whether for development, conservation, or a combination of the two. diverse land cover types can be used or managed in very diverse ways.
 
 ## LULC-Case Study
-Our Case study is Kisumu East 
+Our Case study is Kisumu East. In order to analyze Earth Observation data, machine learning (ML) is a potent tool. With its built-in tools and simple APIs, Earth Engine enables users to create and use machine learning models for typical use cases. A common ML task is to classify (Classification task) the pixels in satellite imagery into two or more categories. The approach is useful for Land Use Land Cover mapping and other popular applications. These categories can include water bodies, bare lands, croplands, forested areas, developed areas for the case of LULC.
 
 #### Motivation
 The Machine learning capabilities in the GEE JS code editor remain limited. For example, there is no support for XGBoost, LightGBM, NGBoost, etc. Moreover, the python ecosystem has much more support for training, valdation and hyperparameter tuning. However, for this functionality to be leveraged, data needs to be downloaded locally or stored in Google Drive or Google Cloud Storage to benefit from the Machine learning python ecosystem. Therfore, this package aims to make it easier and faster to download GEE-processed data in a machine learning-ready format. 
