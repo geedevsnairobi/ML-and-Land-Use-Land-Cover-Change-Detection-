@@ -42,12 +42,18 @@
       <a href="#about-the-project">Problem Statement</a>
     </li>
     <li>
-      <a href="#Case Study">LULC-Case Study (Kisumu East)</a>
+      <a href="#Case Study">LULC-Case Study</a>
     </li>
     <li>
       <a href="#Project Work Flow">Project Work Flow</a>
       <ul>
         <li><a href="#Step 1.">Step 1. Data collection and preprocessing</a></li>
+      </ul>
+      <ul>
+        <li><a href="#Step 2.">Step 2: Generation of the training samples</a></li>
+      </ul>
+      <ul>
+        <li><a href="#Step 3.">Step 3: Training the ML Model for Classification</a></li>
       </ul>
     </li>
     <li><a href="#usage">Basic Usage</a></li>
@@ -66,6 +72,9 @@
 This python package makes it easier to extract satellite data from Google Earth Engine using parallel processing and the Google Earth Engine high volume end point.
 
 In its current state it supports the extraction of data for traditional machine learning (tabular data) in the form of csv's and the extraction of GeoTiff image patches for Deep Neural Networks.
+
+## LULC-Case Study
+Our Case study is Kisumu East 
 
 #### Motivation
 The Machine learning capabilities in the GEE JS code editor remain limited. For example, there is no support for XGBoost, LightGBM, NGBoost, etc. Moreover, the python ecosystem has much more support for training, valdation and hyperparameter tuning. However, for this functionality to be leveraged, data needs to be downloaded locally or stored in Google Drive or Google Cloud Storage to benefit from the Machine learning python ecosystem. Therfore, this package aims to make it easier and faster to download GEE-processed data in a machine learning-ready format. 
