@@ -30,7 +30,7 @@
 <h3 align="center">GEE Developers-Nairobi</h3>
 
   <p align="center">
-    A python package to extract gee data for machine learning.
+    A Climate Innovation and Sustainability Community/Unit/Track in [GDG Nairobi](https://gdg.community.dev/gdg-nairobi/.
   </p>
 </div>
 
