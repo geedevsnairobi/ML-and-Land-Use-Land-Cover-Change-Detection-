@@ -1,4 +1,4 @@
-# ML and Land Use Land Cover Change Detection
+# Land Use Land Cover Change Detection
 
 <div id="top"></div>
 
@@ -39,12 +39,15 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Problem Statement</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Case Study">LULC-Case Study (Kisumu East)</a>
+    </li>
+    <li>
+      <a href="#Project Work Flow">Project Work Flow</a>
       <ul>
-        <li><a href="#installation">Loading Image</a></li>
+        <li><a href="#Step 1.">Step 1. Data collection and preprocessing</a></li>
       </ul>
     </li>
     <li><a href="#usage">Basic Usage</a></li>
