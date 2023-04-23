@@ -23,8 +23,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/Geethen/geeml">
-    <img src="./images/GEEDEVSNairobi.png" alt="Logo" width="400" height="400">
+    <![GEE logo transparent background (2) (1)](https://user-images.githubusercontent.com/119797704/233849725-349c09f1-e271-417d-b82d-b07234c548e0.png)" alt="Logo" width="400" height="400">
   </a>
+  
 
 <h3 align="center">GEE Developers-Nairobi</h3>
 
