@@ -30,7 +30,7 @@
 <h3 align="center">GEE Developers-Nairobi</h3>
 
   <p align="center">
-    A Climate Innovation and Sustainability Community/Unit/Track in [GDG Nairobi](https://gdg.community.dev/gdg-nairobi/.
+    A Climate Innovation and Sustainability Community/Unit/Track in [GDG Nairobi](https://gdg.community.dev/gdg-nairobi/. 
   </p>
 </div>
 
