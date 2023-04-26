@@ -30,7 +30,7 @@
 <h3 align="center">GEE Developers-Nairobi</h3>
 
   <p align="center">
-    A Climate Innovation and Sustainability Community/Unit/Track in [GDG Nairobi](https://gdg.community.dev/gdg-nairobi/. 
+    A Climate Innovation and Sustainability Community/Unit/Track within [GDG Nairobi](https://gdg.community.dev/gdg-nairobi/). 
   </p>
 </div>
 
@@ -141,11 +141,18 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Hosts GEE Developers-Nairobi geedevsnairobi@gmail.com
+Organizing team: GEE Developers-Nairobi geedevsnairobi@gmail.com
 
-Facilitator: Wafula Michael - https://www.linkedin.com/in/wafula-michael-wekesa-013834221/
+* [Nicholas Musau](https://www.linkedin.com/in/nicholas-musau/)
 
-Project Link: https://github.com/geedevsnairobi/ML-and-Land-Use-Land-Cover-Change-Detection-
+* [Christopher Wanjohi](https://www.linkedin.com/in/wanjohichristopher/)
+
+* [Michael Wafula](https://www.linkedin.com/in/wafula-michael-wekesa-013834221/)
+
+
+Facilitator: [Michael Wafula](https://www.linkedin.com/in/wafula-michael-wekesa-013834221/)
+
+Project Link: [LULC](https://github.com/geedevsnairobi/ML-and-Land-Use-Land-Cover-Change-Detection-)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
